@@ -1,0 +1,14 @@
+{
+    "baseURL": "https://www.saucedemo.com/",
+    "Username": "standard_user",
+    "Password": "secret_sauce",
+    "WrongPassword": "wrongpassword",
+
+    // Email credential
+    "fromEmail": "devanshu.ofice@gmail.com",
+    "emailPassword": "aagq lxhs vswt oaig",
+    "toEmail": "devanshu5.singh@gmail.com",
+
+    // Path of file of Extent Report
+    "reportPath": "D:\\SwagLab1\\ExtentReport\\Reports05.html"
+}

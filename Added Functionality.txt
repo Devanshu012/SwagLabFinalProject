@@ -1,0 +1,7 @@
+1. Extent report
+2. In extent report added screenshot on test case fail
+3. Parallel testing
+4. Using incognito mode for testing
+5. Retry the automation of test case if it fails.
+6. On generation of extent report, it send a mail from one gmail to another.
+7. Generated .bat file.
